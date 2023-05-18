@@ -58,12 +58,12 @@ class AppDelegate {
 
 ### How It Looks Like?
 
-![Complete INFO Log](./images/COMPLETEDLOG_INFO.png)
-![Complete WARNING Log](./images/COMPLETEDLOG_WARNING.png)
-![Complete ERROR Log](./images/COMPLETEDLOG_ERROR.png)
-![Complete CUSTOM Log](./images/COMPLETEDLOG_CUSTOM.png)
+![Complete INFO Log](./.images/COMPLETEDLOG_INFO.png)
+![Complete WARNING Log](./.images/COMPLETEDLOG_WARNING.png)
+![Complete ERROR Log](./.images/COMPLETEDLOG_ERROR.png)
+![Complete CUSTOM Log](./.images/COMPLETEDLOG_CUSTOM.png)
 
-![Simplified INFO Log](./images/SIMPLIFIEDLOG_INFO.png)
-![Simplified WARNING Log](./images/SIMPLIFIEDLOG_WARNING.png)
-![Simplified ERROR Log](./images/SIMPLIFIEDLOG_ERROR.png)
-![Simplified CUSTOM Log](./images/SIMPLIFIEDLOG_CUSTOM.png)
+![Simplified INFO Log](./.images/SIMPLIFIEDLOG_INFO.png)
+![Simplified WARNING Log](./.images/SIMPLIFIEDLOG_WARNING.png)
+![Simplified ERROR Log](./.images/SIMPLIFIEDLOG_ERROR.png)
+![Simplified CUSTOM Log](./.images/SIMPLIFIEDLOG_CUSTOM.png)
