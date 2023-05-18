@@ -21,10 +21,19 @@ public enum AppLoggerLevel {
        case .custom(let prefix): return "END " + prefix
        }
    }
+    
+    var type: String {
+        switch self {
+        case .info: return "INFO"
+        case .warning: return "WARNING"
+        case .error: return "ERROR"
+        case .custom: return "CUSTOM"
+        }
+    }
 }
 
 extension AppLoggerLevel: Equatable {
     public static func == (lhs: Self, rhs: Self) -> Bool {
-        lhs.prefix == rhs.prefix && lhs.sufix == rhs.sufix
+        lhs.type == rhs.type
     }
 }
