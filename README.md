@@ -56,14 +56,32 @@ class AppDelegate {
 }
 ```
 
-### How It Looks Like?
+# How It Looks Like?
 
+# COMPLETE INFO
 ![Complete INFO Log](./.images/COMPLETEDLOG_INFO.png)
+
+# COMPLETE WARNING
 ![Complete WARNING Log](./.images/COMPLETEDLOG_WARNING.png)
+
+# COMPLETE ERROR
 ![Complete ERROR Log](./.images/COMPLETEDLOG_ERROR.png)
+
+# COMPLETE CUSTOM
 ![Complete CUSTOM Log](./.images/COMPLETEDLOG_CUSTOM.png)
 
+
+------------------
+
+
+# SIMPLIFIED INFO
 ![Simplified INFO Log](./.images/SIMPLIFIEDLOG_INFO.png)
+
+# SIMPLIFIED WARNING
 ![Simplified WARNING Log](./.images/SIMPLIFIEDLOG_WARNING.png)
+
+# SIMPLIFIED ERROR
 ![Simplified ERROR Log](./.images/SIMPLIFIEDLOG_ERROR.png)
+
+# SIMPLIFIED CUSTOM
 ![Simplified CUSTOM Log](./.images/SIMPLIFIEDLOG_CUSTOM.png)
