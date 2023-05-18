@@ -1,6 +1,14 @@
 public struct AppLogger {
-    public private(set) var text = "Hello, World!"
 
-    public init() {
+    public static let logger = AppLogger()
+    
+    // MARK: - FilePrivate Properties
+    private let configuration = AppLoggerConfigurantion.configuration
+    
+    private init() {}
+        
+    public func showContextFor(levelLogger: [AppLoggerLevel]) {
+        configuration.setCustomAvailableContext(loggerLevel: levelLogger)
     }
+    
 }
